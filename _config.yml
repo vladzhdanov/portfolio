@@ -1,3 +1,9 @@
-remote_theme : chrisbobbe/jekyll-theme-prologue
 title: Vladimir Zhdanov
+subtitle: EHP E-Portfolio
+description: Site of Vladimir Zhdanov's EHP E-Portfolio
+author: Vladimir Zhdanov
+email: vzhdanov99@gmail.com
+
+
+remote_theme : chrisbobbe/jekyll-theme-prologue
 collections: [sections]
