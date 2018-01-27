@@ -4,6 +4,7 @@ description: Site of Vladimir Zhdanov's EHP E-Portfolio
 author: Vladimir Zhdanov
 email: vladimir.zhdanov@colorado.edu
 github_url: github.com/vladzhdanov/
+twitter_url: "twitter.com"
 
 avatar: assets/images/avatar.jpg
 remote_theme : chrisbobbe/jekyll-theme-prologue
