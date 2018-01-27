@@ -4,6 +4,6 @@ description: Site of Vladimir Zhdanov's EHP E-Portfolio
 author: Vladimir Zhdanov
 email: vzhdanov99@gmail.com
 
-
+avatar: none
 remote_theme : chrisbobbe/jekyll-theme-prologue
 collections: [sections]
