@@ -2,7 +2,8 @@ title: Vladimir Zhdanov
 subtitle: EHP E-Portfolio
 description: Site of Vladimir Zhdanov's EHP E-Portfolio
 author: Vladimir Zhdanov
-email: vzhdanov99@gmail.com
+email: vladimir.zhdanov@colorado.edu
+github_url: https://github.com/vladzhdanov/
 
 avatar: assets/images/avatar.jpg
 remote_theme : chrisbobbe/jekyll-theme-prologue
