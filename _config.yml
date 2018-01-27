@@ -5,6 +5,8 @@ author: Vladimir Zhdanov
 email: vladimir.zhdanov@colorado.edu
 twitter_url: "http://twitter.com/vladzhdanov/"
 
+url: ""
+baseurl: "/vladzhdanov.github.io"
 avatar: assets/images/avatar.jpg
 remote_theme : chrisbobbe/jekyll-theme-prologue
 collections: [sections]
